@@ -1,0 +1,1 @@
+https://clonetown-tau.vercel.app/php/fresh/mGameInfo.xml
